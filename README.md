@@ -18,4 +18,4 @@ Este es un repositorio para demostrar mis habilidades y compartir proyectos rela
  2. SQL
     - [Nueva aplicación para amantes de libros](https://github.com/poroyac/Data-Analysis-Portafolio/tree/main/Nueva%20aplicaci%C3%B3n%20para%20amantes%20de%20libros)
  3. Tableau
-    - [Análisis de Tendencia de videos en YouTube](https://github.com/poroyac/Data-Analysis-Portafolio/tree/main/An%C3%A1lisis%20de%20Tendencia%20de%20videos%20en%C2%A0YouTube)
+    - [Análisis de Tendencia de videos en YouTube](https://github.com/poroyac/Data-Analysis-Portafolio/tree/main/An%C3%A1lisis%20de%20tendencia%20de%20videos%20en%20YouTube)
