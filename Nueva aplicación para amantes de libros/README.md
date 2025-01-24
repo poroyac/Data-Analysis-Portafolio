@@ -1,7 +1,7 @@
 # Nueva Aplicación para amantes de libros
 
 # Objetivo
-Explorar la información almacenada en una base de datos en PostgreSQL.
+Analizar y explorar la información almacenada en una base de datos en PostgreSQL usando Python.
 
 # Descripción de Proyecto
 El coronavirus tomó al mundo entero por sorpresa, cambiando la rutina diaria de todos y todas. Los habitantes de las ciudades ya no pasaban su tiempo libre fuera, yendo a cafés y centros comerciales; sino que más gente se quedaba en casa, leyendo libros. Eso atrajo la atención de las startups (empresas emergentes) que se apresuraron a desarrollar nuevas aplicaciones para los amantes de los libros.
